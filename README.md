@@ -12,21 +12,21 @@ Pokud chcete přispět svým vypracovaným cvičením tak budeme rádi. Jestliž
 
 ## [BPC-PC1T - Počítače a programování 1](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T)
 
-BPC-PC1T obsahuje kód pro cvičení od [@Oswinska](https://github.com/Oswinska) ve [složce Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) z roku 2020/2021 a od [@jedla97](https://github.com/jedla97) ve [složce jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla) z roku 2018/2019. Cvičení se za tu dobu nezměnili.
+BPC-PC1T obsahuje kód pro cvičení od [@Oswinska](https://github.com/Oswinska) ve [složce Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) z roku 2020/2021, od [@jedla97](https://github.com/jedla97) ve [složce jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla) z roku 2018/2019 a od [@su-din0](https://github.com/su-din0) ve [složce su-din0](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0) z roku 2024/2025.
 
 
-| Cvičení     | [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla)         | [Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) |
-| :---------: | :--------------------------------------------------------------------------: | :------------------------------------: |
-| Cvičení 3   | -																	   		 | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV03) |
-| Cvičení 4   | -																	   		 | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV04) |
-| Cvičení 5	  | -																	 		 | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV05) |
-| Cvičení 6   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni06) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV06) |
-| Cvičení 7   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni07) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV07) |
-| Cvičení 8   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni08) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV08) |
-| Cvičení 9   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni09) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV09) |
-| Cvičení 10  | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni10) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV10) |
-| Cvičení 11  | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni11) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV11) |
 
+| Cvičení     | [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla)         | [Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) | [su-din0](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0) |
+| :---------: | :--------------------------------------------------------------------------: | :------------------------------------: | :-----------------------------------------: |
+| Cvičení 3   | -                                                | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV03) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV03) |
+| Cvičení 4   | -                                                | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV04) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV04) |
+| Cvičení 5   | -                                                | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV05) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV05) |
+| Cvičení 6   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni06) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV06) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV06) |
+| Cvičení 7   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni07) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV07) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV07) |
+| Cvičení 8   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni08) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV08) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV08) |
+| Cvičení 9   | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni09) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV09) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV09) |
+| Cvičení 10  | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni10) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV10) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV10) |
+| Cvičení 11  | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla/cviceni11) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska/CV11) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/su-din0/CV11) |
 
 ## [BPC-PC2T - Počítače a programování 2](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec)
 
